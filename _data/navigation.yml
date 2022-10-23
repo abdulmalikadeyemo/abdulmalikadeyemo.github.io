@@ -12,8 +12,8 @@ main:
 #   - title: "Portfolio"
 #     url: /portfolio/
     
-  - title: "Certificates"
-    url: /certificate/
+#   - title: "Certificates"
+#     url: /certificate/
         
 #   - title: "Blog Posts"
 #     url: /posts/
