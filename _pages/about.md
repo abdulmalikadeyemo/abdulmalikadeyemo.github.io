@@ -16,7 +16,6 @@ He is actively involved in the use of artificial intelligence to improve healthc
 
 
 # Research Experience
-
 ### **Undergraduate Research Assistant** **[10/2019 – 05/2021]**
 **Computer Engineering, University of Ilorin, Ilorin, Nigeria.**
 
@@ -27,6 +26,13 @@ He is actively involved in the use of artificial intelligence to improve healthc
 - Wrote a research proposal, reviewed literature, and reported findings on a semi-autonomous drone system for security surveillance and package delivery.
 - Wrote and submitted the mathematical analysis of the drone design for a thrust-to-weight ratio of 2:1.
 - Led a team of 7 students in the design and development of a semi-autonomous drone system for surveillance, security and package delivery.
+
+
+# Conferences and Presentations
+- Department of Surgery, University of Ilorin research day on “Emerging Technologies in Surgery, Implication for Training and Practice in Resource Poor Settings”, A 4 minute presentation by **Abdulmalik Adeyemo**, on “Automated Diagnosis Of Diabetic Retinopathy From Fundus Images Using Artificial Intelligence” [7/10/2022]
+- Exhibitor at Digital Nigeria Conference on “Digital Transformation: A path to sustainable digital economy”.
+- Deep Learning IndabaX conference on “Responsible AI in National Security and Healthcare”.
+- Abdulmalik Adeyemo (2021): Design and Development of a Semi-Autonomous Drone System. A B.Eng undergraduate research project, submitted to the department of Computer Engineering, University of Ilorin, Ilorin, Nigeria.
 
 
 # About FundusAI
