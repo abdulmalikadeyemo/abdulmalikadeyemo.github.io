@@ -19,7 +19,9 @@ He is actively involved in the use of artificial intelligence to improve healthc
 
 ### **Undergraduate Research Assistant** **[10/2019 – 05/2021]**
 **Computer Engineering, University of Ilorin, Ilorin, Nigeria.**
+
 **Supervisor: Dr Aye Ajiboye**
+
 **Undergraduate Thesis:** Design and Development of a Semi-Autonomous Drone System.
 
 - Wrote a research proposal, reviewed literature, and reported findings on a semi-autonomous drone system for security surveillance and package delivery.
