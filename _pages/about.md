@@ -15,6 +15,11 @@ He earned a First Class Bachelor's degree in Computer Engineering from the Unive
 He is actively involved in the use of artificial intelligence to improve healthcare service and delivery in Africa. He has worked on several AI in healthcare projects, including AI-assisted chest X-ray diagnosis, brain tumor detection from MRI scans, and Diabetic Retinopathy detection from fundus images. He is currently a co-founder and CEO of FundusAI, a technology startup aimed at preventing blindness in diabetic patients.
 
 
+# Ongoing Research
+- **Title:** Automated Diagnosis of Diabetic Retinopathy from Fundus Images using Deep Learning
+[Link to Abstract](https://drive.google.com/file/d/1Nvhls6IgDCSNZdlB2JWnJIvF3sFbwMV1/view?usp=share_link)
+ 
+
 # Research Experience
 ### **Undergraduate Research Assistant** **[10/2019 – 05/2021]**
 **Computer Engineering, University of Ilorin, Ilorin, Nigeria.**
