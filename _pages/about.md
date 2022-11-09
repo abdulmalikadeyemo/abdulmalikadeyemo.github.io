@@ -17,7 +17,7 @@ He is actively involved in the use of artificial intelligence to improve healthc
 
 # Ongoing Research
 - **Title:** Automated Diagnosis of Diabetic Retinopathy from Fundus Images using Deep Learning
-[Link to Abstract](https://drive.google.com/file/d/1Nvhls6IgDCSNZdlB2JWnJIvF3sFbwMV1/view?usp=share_link)
+[Link to Abstract](https://drive.google.com/file/d/1BUt2lw-XjOvMxK0UolWJTCkRfbdpB1OE/view?usp=share_link)
  
 
 # Research Experience
