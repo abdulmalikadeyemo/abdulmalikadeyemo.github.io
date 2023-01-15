@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Abdulmalik Adeyemo is a machine learning researcher focused on the application of cutting-edge Machine Learning and Artificial Intelligence  techniques to concrete problems in healthcare. 
+Abdulmalik Adeyemo is a data scientist focused on the application of cutting-edge Machine Learning and Artificial Intelligence  techniques to concrete problems in healthcare. 
 
 He earned a First Class Bachelor's degree in Computer Engineering from the University of Ilorin and was branded the department's best graduating student.
 
