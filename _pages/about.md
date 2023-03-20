@@ -14,7 +14,7 @@ He earned a First Class Bachelor's degree in Computer Engineering from the Unive
 
 He is actively involved in the use of artificial intelligence to improve healthcare service and delivery in Africa. He has worked on several AI in healthcare projects, including AI-assisted chest X-ray diagnosis, brain tumor detection from MRI scans, and Diabetic Retinopathy detection from fundus images. 
 
-He is the Founder and CEO of FundusAI LTD, an AI driven startup that helps prevent blindness in diabetic patients by proving an automated diagnostic system that allows more patients to be diagnosed in less time.
+He is the Founder and CEO of FundusAI LTD, an AI driven startup that helps prevent blindness in diabetic patients by providing an automated diagnostic system that allows more patients to be diagnosed in less time.
 
 
 # Ongoing Research
