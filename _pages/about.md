@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Abdulmalik Adeyemo is a data scientist focused on the application of cutting-edge Machine Learning and Deep Learning  techniques to solve concrete problems in healthcare. 
+Abdulmalik Adeyemo is a data scientist focused on the application of data analysis, cutting-edge Machine Learning and Deep Learning techniques to solve concrete business problems.
 
-He earned a First Class Bachelor's degree in Computer Engineering from the University of Ilorin and was branded the department's best graduating student.
+He earned a First Class Bachelor’s degree in Computer Engineering from the University of Ilorin and was branded the department’s best graduating student.
 
-He is actively involved in the use of artificial intelligence to improve healthcare service and delivery in Africa. He has worked on several AI in healthcare projects, including AI-assisted chest X-ray diagnosis, brain tumor detection from MRI scans, and Diabetic Retinopathy detection from fundus images. 
+He is actively involved in the use of artificial intelligence to improve healthcare service and delivery in Africa. He has worked on several AI in healthcare projects, including AI-assisted chest X-ray diagnosis, brain tumor detection from MRI scans, and Diabetic Retinopathy detection from fundus images.
 
 He is the Founder and CEO of FundusAI LTD, an AI driven startup that helps prevent blindness in diabetic patients by providing an automated diagnostic system that allows more patients to be diagnosed in less time.
+
+
+**Technical Skills:** Python, Pandas for Data Analysis, NumPy, SciPy, Matplotlib, Power-BI, DAX, SQL, Scikit-learn, Machine Learning, Deep Learning, Git & GitHub, Raspberry PI Programming.
+
+**Soft Skills:** Problem Solving, Communication, Team Work, Leadership
 
 
 # Ongoing Research
