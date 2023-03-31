@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Abdulmalik Adeyemo is a data scientist focused on the application of data analysis, cutting-edge Machine Learning and Deep Learning techniques to solve concrete business problems.
+Abdulmalik Adeyemo is a data scientist focused on the application of data analytics, cutting-edge Machine Learning and Deep Learning techniques to solve concrete business problems.
 
 He earned a First Class Bachelor’s degree in Computer Engineering from the University of Ilorin and was branded the department’s best graduating student.
 
