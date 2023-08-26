@@ -51,5 +51,4 @@ He is the Founder and CEO of FundusAI LTD, an AI driven startup that helps preve
 
 FundusAI helps prevent blindness in diabetic patients by proving an automated diagnostic system that allows more patients to be diagnosed in less time.
 
-FundusAI solves three major problems: the scarcity of eye doctors, which is solved by our AI solution, the high cost of diagnostic tools, which is solved by our low-cost diagnostic device that captures eye images, and the time-consuming manual diagnosis, which is solved by a combination of fast eye image capturing and diagnosis. 
-[Learn More](https://www.fundusai.com/)
+FundusAI solves three major problems: the scarcity of eye doctors, which is solved by our AI solution, the high cost of diagnostic tools, which is solved by our low-cost diagnostic device that captures eye images, and the time-consuming manual diagnosis, which is solved by a combination of fast eye image capturing and diagnosis.
